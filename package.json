@@ -1,0 +1,23 @@
+{
+  "name": "ts-json-check",
+  "version": "1.0.0",
+  "description": "Check if TypeScript can validate JSON structure",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc --noEmit",
+    "test": "tsc --noEmit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justinanastos/ts-json-check.git"
+  },
+  "author": "Justin Anastos <justin.anastos@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/justinanastos/ts-json-check/issues"
+  },
+  "homepage": "https://github.com/justinanastos/ts-json-check#readme",
+  "dependencies": {
+    "typescript": "^3.2.1"
+  }
+}
