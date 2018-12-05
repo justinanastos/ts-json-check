@@ -17,7 +17,7 @@ Found that `interface` types are enforced, including allowing [type widening](ht
 Install dependencies:
 
 ```
-npm Install
+npm install
 ```
 
 Run TypeScript checker with `npm run start`, `npm run test`, or `npx tsc --noEmit`.
