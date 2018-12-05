@@ -12,6 +12,8 @@ This requires enabling the apparently poorly documented [`resolveJsonModule`](ht
 
 Found that `interface` types are enforced, including allowing [type widening](https://blog.mariusschulz.com/2017/02/04/typescript-2-1-literal-type-widening) (the opposite of flow's `{| |}`).
 
+![](https://cl.ly/01e0ca57cd96/Image%202018-12-05%20at%202.21.19%20PM.png)
+
 # Run
 
 Install dependencies:
